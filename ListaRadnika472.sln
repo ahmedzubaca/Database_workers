@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaRadnika472", "ListaRadnika472\ListaRadnika472.csproj", "{4C7992ED-B9BF-4CD7-9E4A-B1010563711E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupRadnici", "SetupRadnici\SetupRadnici.vdproj", "{9B15D9FE-A46E-4361-A955-3382C9BF0DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C7992ED-B9BF-4CD7-9E4A-B1010563711E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7992ED-B9BF-4CD7-9E4A-B1010563711E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4C7992ED-B9BF-4CD7-9E4A-B1010563711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7992ED-B9BF-4CD7-9E4A-B1010563711E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B15D9FE-A46E-4361-A955-3382C9BF0DAB}.Debug|Any CPU.ActiveCfg = Release
+		{9B15D9FE-A46E-4361-A955-3382C9BF0DAB}.Debug|Any CPU.Build.0 = Release
+		{9B15D9FE-A46E-4361-A955-3382C9BF0DAB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC906230-5E9C-4DC3-B24E-F05A29302650}
+	EndGlobalSection
+EndGlobal
